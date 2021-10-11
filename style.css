@@ -655,9 +655,6 @@ li{
         display: block;
         text-align: center;
     }
-    .logo {
-        margin-bottom: 20px;
-    }
     .footer-link:last-child{
         margin-bottom: 36px;
     }
