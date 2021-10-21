@@ -35,11 +35,6 @@ $('.close-btn').on('click', function() {
   $('.sup__header').remove();
   $('.sup__header').children().remove();
 })
-let btn__Pysan = document.querySelector('.supheader__checked');
-btn__Pysan.addEventListener('click', function(){
-  alert('Пысан для доставка бесплатна!!!')
-})
-
 $('.menu-btn').on('click', function() {
   $('.list-item').toggleClass('list-item--active')
 })
